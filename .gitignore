@@ -1,1 +1,5 @@
 node_modules
+
+
+
+ docker tag node-docker:latest node-docker:v1.5.2
